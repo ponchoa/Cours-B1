@@ -1,3 +1,5 @@
 Bonjour, je suis un fichier.
 
 Ceci est une modification sur le PC.
+
+Ceci est une modification distante.
